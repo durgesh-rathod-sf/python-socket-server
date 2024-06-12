@@ -1,0 +1,16 @@
+{
+  "name": "realtime-aws-transcribe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-transcribe-streaming": "^3.590.0",
+    "microphone-stream": "^6.0.1",
+    "wav-file-info": "^0.0.10"
+  }
+}
